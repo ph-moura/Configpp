@@ -1,4 +1,4 @@
-#include "config.hpp"
+#include "configpp.hpp"
 
 void Config::set_key_delimiters(char il, char fl)
 {

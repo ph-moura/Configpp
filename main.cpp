@@ -1,4 +1,4 @@
-#include "config.hpp"
+#include "configpp.hpp"
 #include <iostream>
 
 int main()

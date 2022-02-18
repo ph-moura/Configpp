@@ -1,6 +1,6 @@
 # Makefile
 
-LIBNAME=config
+LIBNAME=configpp
 TARGET=lib$(LIBNAME).so
 
 INCLUDEDIR=/usr/local/include/
